@@ -1,4 +1,5 @@
-# NFL-prediction-touchdowns
+# NFL Prediction: Touchdowns
+
 ## Project Summary
 
 ### Overview
@@ -12,9 +13,9 @@ I constructed new features to reflect a quarterback's performance in the season 
 
 ### Model Selection and Training
 Two regression models were utilized in this analysis:
+- **Linear Regression:** A straightforward approach that assumes a linear relationship between the selected features and the number of touchdowns.
+- **Ridge Regression:** An extension of linear regression that includes regularization to reduce overfitting and improve model generalizability.
 
-Linear Regression: A straightforward approach that assumes a linear relationship between the selected features and the number of touchdowns.
-Ridge Regression: An extension of linear regression that includes regularization to reduce overfitting and improve model generalizability.
 I trained these models using the 2020 season data, allowing me to test their predictions against the actual 2021 season outcomes.
 
 ### Cross-Validation and Performance Metrics
