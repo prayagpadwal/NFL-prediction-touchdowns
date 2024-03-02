@@ -30,5 +30,8 @@ For instance, the models predicted A. Rodgers to score 35.67 touchdowns, but he 
 ### Visualization
 The scatter plot of actual versus predicted touchdowns revealed a strong linear trend, endorsing the models' effectiveness for higher-scoring quarterbacks. However, the dispersion around the line for lower touchdown counts indicated that predictions for these players could be improved.
 
-### Conclusion and Future Work
+![image](https://github.com/prayagpadwal/NFL-prediction-touchdowns/assets/65147413/f197dff8-3689-4011-983d-77c87c4c48f1)
+
+![image](https://github.com/prayagpadwal/NFL-prediction-touchdowns/assets/65147413/08458325-c536-483b-98ea-0a5a2b8e0980)
+
 The analysis confirmed that past performance could be indicative of future success, but also highlighted the potential for refining the models. Future iterations will explore additional data sources, potentially encompassing off-field factors, to enhance the models' predictive accuracy across the full range of player performances.
